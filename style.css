@@ -3,7 +3,7 @@
 *, *:before, *:after {box-sizing: inherit;}
 html{
   box-sizing: border-box;
-  background: #0D757D;
+  background: #162976;
   font-size: 1rem;
   color: #e6eff0;
   font-family: Roboto Slab;
@@ -15,7 +15,7 @@ h1 {
 }
 table * {height: auto; min-height: none;} /* fixed ie9 & <*/
 table {
-  background: #15BFCC;
+  background: #8B9291;
   table-layout: fixed;
   margin: 1rem auto;
   width: 98%;
@@ -25,7 +25,7 @@ table {
   border-top: 0 none;
 }
 thead {
-  background: #FF7361;
+  background: #35C0B3;
   text-align: center;
   z-index: 2;
 }
